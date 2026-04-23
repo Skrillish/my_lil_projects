@@ -1,0 +1,70 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+#whole-body{
+    background-color: rgb(165, 165, 158);
+    width: 100%;
+    height: 100vh;
+    margin: auto;
+    padding-top: 10px;
+
+}
+
+.navbar{
+    width: 99%;
+    height: 5vh;
+    border: 2px solid red;
+    margin:auto;
+
+}
+
+#row-area{
+    border: 2px solid red;
+    padding: 5px 10px;
+    height: auto;
+    margin: auto;
+    padding: 20px 10px;
+}
+
+#row{
+    display: flex;
+    border: 2px solid green;
+    padding: 20px 10px;
+}
+
+.col{
+    border: 2px solid red;
+    margin: auto;
+    padding: 10px 10px;
+}
+
+.col1{
+    width: 70%;
+    border: 2px solid blue;
+    height: auto;
+}
+
+.col1 p{
+    padding-left: 5%;
+}
+
+.col2{
+    width: 20%;
+    border: 2px solid blue;
+    height: auto
+}
+
+.col2 p{
+    padding-left: 3%;
+}
+
+#alert{
+     width: 99%;
+    height: 5vh;
+    border: 2px solid red;
+    margin:auto;
+    margin-top: 20px;
+
+}
