@@ -1,0 +1,125 @@
+#red-box{
+    height: 400px;
+    border: 5px red solid;
+    margin: 30px 0;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.red-box-info{
+    width: 200px;
+    padding: 15px;
+    height: 370px;
+    margin: 0 15px;
+    background-color: red;
+}
+.red-box-info h2{
+    text-align: center;
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.red-box-info p{
+    text-align: justify;
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+
+#green-box{
+    height: 400px;
+    border: 5px green solid;
+    margin: 30px 0;
+    padding: 30px;
+     display: flex;
+    justify-content: space-between;
+}
+
+.green-box-info{
+    width: 200px;
+    padding: 15px;
+    height: 370px;
+    margin: 0 15px;
+    background-color: green;
+}
+
+.green-box-info h2{
+    text-align: center;
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.green-box-info p{
+    text-align: justify;
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+
+#blue-box{
+    height: 400px;
+    border: 5px blue solid;
+    margin: 30px 0;
+    padding: 30px;
+     display: flex;
+    justify-content: space-between;
+}   
+
+.blue-box-info{
+    width: 200px;
+    padding: 15px;
+    height: 370px;
+    margin: 0 15px;
+    background-color: blue;
+}
+
+.blue-box-info h2{
+    text-align: center;
+    color: tomato;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.blue-box-info p{
+    text-align: center;
+    color: tomato;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#purple-box{
+    height: 400px;
+    border: 5px purple solid;
+    margin: 30px 0;
+    padding: 30px;
+     display: flex;
+    justify-content: space-between;
+}
+
+.purple-box-info{
+    width: 200px;
+    padding: 15px;
+    height: 370px;
+    margin: 0 15px;
+    background-color: purple;
+}
+
+
+.purple-box-info h2{
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.purple-box-info p{
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
